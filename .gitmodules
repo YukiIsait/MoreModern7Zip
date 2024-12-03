@@ -1,0 +1,3 @@
+[submodule "Build"]
+	path = Build
+	url = https://github.com/YukiIsait/7ZipBuilder
