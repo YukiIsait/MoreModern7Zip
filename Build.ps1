@@ -1,4 +1,4 @@
-﻿$buildVersion = '7z2500'
+﻿$buildVersion = '7z2501'
 
 $workDir = $PSScriptRoot
 $buildDir = "$workDir\Build"
